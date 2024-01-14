@@ -1,0 +1,3 @@
+[submodule "ping-frontend-app"]
+	path = ping-frontend-app
+	url = https://github.com/kusalkalinga00/solana-transfer
