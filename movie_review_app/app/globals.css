@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.wallet-adapter-button:not([disabled]):hover {
+  background-color: #334154 !important;
+}
